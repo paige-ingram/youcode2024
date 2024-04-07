@@ -1,0 +1,43 @@
+Product URL: coarc-helmet-carry-pack-accessory
+
+ID: X000006189
+
+Name: Coarc Helmet Carry Pack Accessory
+
+Description:
+The Coarc – an adjustable helmet carry system created to work with our technical climbing and snow packs – frees up pack space and keeps your helmet secure.  The intuitive four-point attachment is easy to use, and the simple, glove-friendly design speeds transitions so you can get from uptrack to descent faster.
+
+Short Description:
+Helmet carry system designed to work with our technical climb and snow packs.
+
+Features:
+
+Gender Category:
+unisex
+
+Categories:
+- Packs
+
+Subcategories:
+- Pack Accessories
+
+Keywords:
+  keywordActivities: MOUNTAINEERING, mountaineering, mountain climbing
+  keywordGeneric: GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+  keywordPacks: CLIMBING BAGS, chalk, chalk bag, haul bag
+
+Manufacturing Facility:
+MOUNTAINEERING INSTRUMENTS CORPORAT -/DI-PH
+
+Care Instructions:
+- Do Not Bleach
+- Do Not Dry Clean
+- Do Not Iron
+- Surface Clean Only
+- Do Not Tumble Dry
+- Do Not Wash
+
+Intended Use:
+- Skiing and Snowboarding
+

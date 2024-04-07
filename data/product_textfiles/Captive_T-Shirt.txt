@@ -1,0 +1,53 @@
+Product URL: mens/captive-t-shirt
+
+ID: X000005673
+
+Name: Captive T-Shirt
+
+Description:
+Nothing is worn more 24/7 than your favorite tee. Created to bring all the natural comfort you love and the technical performance you demand, the Captive is your everyday, everything tee. Combining soft, durable organically grown cotton with the performance of polyester, the Captive feels great, stays cool, and dries fast. The trim fit streamlines the look and makes layering easy, and gusseted underarms and light stretch give you freedom to move.
+
+Short Description:
+Light, trim technical tee made from a quick-dry organically grown cotton blend.
+
+Features:
+- Moisture-wicking
+- Breathable
+- Lightweight
+- Quick-drying
+
+Gender Category:
+Men's
+
+Categories:
+- Shirts and Tops
+
+Subcategories:
+- T-Shirts
+- Cotton Blend
+- Organically Grown Cotton
+- bluesign® Approved Materials
+
+Keywords:
+  keywordActivities: TRAVELLING, commute, commuter, travel, travelling, traveling, journey, urban, city travel, city, business travel, business
+  keywordCasual: T-SHIRT, t shirt, t-shirt, tee, tank top
+  keywordClimate: WARM CONDITIONS, climate, hot, spring, springtime, summer, summertime, temperature, temperatures, warm, warm weather activities, dry climate
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's
+
+Manufacturing Facility:
+PT.PANCAPRIMA EKABROTHERS
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Gentle Low
+
+Intended Use:
+- Hiking and Trekking
+- Trail Running
+- Everyday
+

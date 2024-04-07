@@ -1,0 +1,46 @@
+Product URL: word-toque
+
+ID: X000005254
+
+Name: Word Toque
+
+Description:
+Versatile toque featuring an embroidered Arc’teryx word logo on the band. Made from soft, warm, 100% recycled polyester.
+
+Short Description:
+Warm, comfortable winter toque made from 100% recycled polyester.
+
+Features:
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Toques and Beanies
+- Recycled Content
+
+Keywords:
+  keywordAccessories: CAPS, Ball cap, baseball cap, running cap, brim, brimmed hat, ,HATS, hat, toque, beanie, beany, woolly hat, chapeau, headgear, headwear, head wear
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+
+Manufacturing Facility:
+PT Uwu Jump Indonesia
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Dry Flat
+- Hand Wash Cold
+- Do Not Iron
+- Do Not Use Fabric Softener
+- Do Not Wring
+
+Intended Use:
+- Skiing and Snowboarding
+- Everyday
+

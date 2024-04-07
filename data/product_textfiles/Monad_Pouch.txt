@@ -1,0 +1,44 @@
+Product URL: monad-pouch
+
+ID: X000006531
+
+Name: Monad Pouch
+
+Description:
+Light, compact, functional. Made from excess raw materials, part of the ReBird™ sustainability program. Diverts waste from landfills. Offers limitless versatility.
+
+Short Description:
+Lightweight, packable pouch made from excess raw materials.
+
+Features:
+- Water resistant outer face fabric
+
+Gender Category:
+unisex
+
+Categories:
+- Packs
+
+Subcategories:
+- Travel and Commute
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish, ,TRAVELLING, commute, commuter, travel, travelling, traveling, journey, urban, city travel, city, business travel, business
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordVeilance: Veilance, urban, technical, peformance, menswear, office, attire
+
+Manufacturing Facility:
+ARCTERYX EQUIPMENT (FG)
+
+Care Instructions:
+- Do Not Bleach
+- Do Not Dry Clean
+- Do Not Iron
+- Surface Clean Only
+- Do Not Tumble Dry
+- Do Not Wash
+
+Intended Use:
+

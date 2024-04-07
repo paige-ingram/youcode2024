@@ -1,0 +1,53 @@
+Product URL: mens/quartic-jacket
+
+ID: X000007677
+
+Name: Quartic Jacket
+
+Description:
+Shifting conditions, different environments, changing seasons. Versatility is a necessity. An essential softshell, the Quartic delivers advanced performance and clean, athletic design. The stretch double weave fabric is wind resistant and water repellent. An adjustable hood provides coverage, and a water-repellent treatment sheds light moisture. The fit is streamlined, comfortable, and allows room for layers. Articulated patterning frees you to move. 
+
+Short Description:
+Midweight softshell providing light warmth and transitional weather protection.
+
+Features:
+- Durable
+- Wind resistant
+- Water repellent
+
+Gender Category:
+Men's
+
+Categories:
+- Shell Jackets
+
+Subcategories:
+- Softshell
+- Wind Resistant
+- bluesign® Approved Materials
+- Recycled Content
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,SOFT SHELL, shell, soft shell, softshell, soft-shell, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordSpecific: Veilance, urban, technical, peformance, menswear, office, attire
+  keywordVeilance: Veilance, urban, technical, peformance, menswear, office, attire
+  keywordJackets: JACKETS, anorak, anoraks, coat, coats, jacke, jacket, jackets, outerwear, parka, parkas, poncho, ponchos, vest, wind jacket, windjacket, windshell, wind shell, Winterjacke,JACKET SOFTSHELL, softshell, soft shell
+
+Manufacturing Facility:
+LEVERSTYLE
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Double Rinse
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Normal Low
+
+Intended Use:
+

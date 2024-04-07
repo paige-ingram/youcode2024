@@ -1,0 +1,51 @@
+Product URL: womens/eave-t-shirt
+
+ID: X000006528
+
+Name: Eave T-Shirt
+
+Description:
+An essential for the summer wardrobe, the elegant, comfortable Eave is made to move you across city environments on hot days. Created from a four-way stretch polyester plain weave, it combines excellent drape and soft comfort with freedom of movement and technical performance. Stitchless, with ultrasonic finishes at neck and arms, make it clean, streamlined, and smooth. The neckline is scooped at the back, and the fit is open and comfortable but streamlined enough to layer under other elements.
+
+Short Description:
+Airy, soft, lightweight tee with a stretch.
+
+Features:
+- Moisture-wicking
+- Breathable
+
+Gender Category:
+Women's
+
+Categories:
+- Shirts and Tops
+
+Subcategories:
+- T-Shirts
+- Moisture Wicking
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban, ,T-SHIRT, t shirt, t-shirt, tee, tank top
+  keywordClimate: WARM CONDITIONS, climate, hot, spring, springtime, summer, summertime, temperature, temperatures, warm, warm weather activities, dry climate, ,MOIST CONDITIONS, brume, cloudy, condensation, fog, foggy, hydrophobic, mist, misty, moisture blocking, moisture repellent, moisture resistant, moisture resistent, moisture shedding, moisture wicking, sheds moisture, wet climate
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,MOISTURE WICKING/ BREATHABLE, breathability, breathable, breathible, eliminating, moisture repelling, moisture removing, moisture wicking, quick drying, quick-drying, venting, wicking, wicks moisture, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordSpecific: Veilance, urban, technical, peformance, menswear, office, attire
+  keywordVeilance: Veilance, urban, technical, peformance, menswear, office, attire
+
+Manufacturing Facility:
+VIET THUAN APPAREL COMPANY LIMITED (RSI)
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Double Rinse
+- Do Not Dry Clean
+- Do Not Iron
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Remove Immediately
+- Tumble Dry Normal Low
+
+Intended Use:
+

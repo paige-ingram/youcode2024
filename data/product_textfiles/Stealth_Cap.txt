@@ -1,0 +1,49 @@
+Product URL: stealth-cap
+
+ID: X000004685
+
+Name: Stealth Cap
+
+Description:
+A lightweight and breathable cap constructed from GORE-TEX PRO material for complete water protection.
+
+Short Description:
+A lightweight and breathable cap.
+
+Features:
+- Waterproof
+- Breathable
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Hats and Caps
+- Breathable
+- GORE-TEX (Waterproof)
+
+Keywords:
+  keywordAccessories: CAPS, Ball cap, baseball cap, running cap, brim, brimmed hat
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordClimate: WARM CONDITIONS, climate, hot, spring, springtime, summer, summertime, temperature, temperatures, warm, warm weather activities, dry climate, ,RAINY CONDITIONS, rain
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordMaterials: GORE-TEX, gore tex, goretex, gore-tex, GORE-TEX
+  keywordVeilance: Veilance, urban, technical, peformance, menswear, office, attire
+
+Manufacturing Facility:
+ZHONGSHAN WEILI TEXTILE CO., LTD(Supercap)
+
+Care Instructions:
+- Do Not Bleach
+- Do Not Dry Clean
+- Do Not Iron
+- Surface Clean Only
+- Do Not Tumble Dry
+- Do Not Wash
+
+Intended Use:
+

@@ -1,0 +1,61 @@
+Product URL: mens/therme-parka
+
+ID: X000006696
+
+Name: Therme Parka
+
+Description:
+A masterpiece of modern design combining complete GORE-TEX weather protection with performance responsibly-sourced premium goose down, the Therme is made for cold, wet winters. The 750 fill down provides lightweight warmth, while Coreloft™ synthetic insulates areas prone to moisture. The GORE-TEX fabric – waterproof, windproof, and breathable – is soft and quiet. The adjustable StormHood™ is insulated for additional warmth, and internal cuff gaskets seal out drafts and keep heat in.
+
+Short Description:
+Parka-length Therme combines GORE-TEX protection with the warmth of down.
+
+Features:
+- Waterproof
+- Windproof
+- Breathable
+
+Gender Category:
+Men's
+
+Categories:
+- Insulated Jackets
+
+Subcategories:
+- Insulated Shell
+- GORE-TEX (Waterproof)
+- Down Fill
+- bluesign® Approved Materials
+- Recycled Content
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordClimate: WEATHER-RESISTANCE, climate, elements, hydrophobic, outdoor protection, protect against the elements, protection against the elements, shelter, Storm protection, weather, weather protection, weather resistant, weather resistent, weatherproof construction, ,WIND-RESISTANCE, wind, wind block, wind blocker, wind breaker, wind pro, wind proof, wind protector, wind resistant, wind resistent, wind shell, windbreaker, windproof, ,WATER-RESISTANCE, hydrophobic, rain proof, rain resistant, seam sealed, seam-sealed, water, water proof, water proof, water proofing, water repellant, water repellent, water resistant, water resistent, waterproof, waterproof, wet climate
+  keywordGeneric: HARD SHELLS, hard shell, hardshell, hard-shell, shell, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,THERME, therme, therme parka
+  keywordInsulation: INSULATION, body heat, body temperature, bonded poly, comfort, core temperature, fleece, fleese, hardface, heat retention, heat transfer, loft, insulated, insulation, insulation layer, insulation piece, layering, loft, polartec, prima loft, primaloft, thermal, thermal pro, war
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordMaterials: GORE-TEX, gore tex, goretex, gore-tex, GORE-TEX
+  keywordSpecific: Veilance, urban, technical, peformance, menswear, office, attire
+  keywordJackets: JACKET INSULATED, insulated, doudoune,JACKET WATERPROOF, rain jacket, waterproof jacket, rainproof, waterproof hoodies, waterproof hoody
+
+Manufacturing Facility:
+MENSA INDUSTRIES COMPANY LIMITED
+
+Care Instructions:
+- Do Not Bleach
+- Close All Fastenings Before Wash
+- Double Rinse
+- Do Not Dry Clean
+- Front Load Washer Recommended
+- Do Not Iron
+- Use Mesh Bag For Top Load Washer
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Low with Tennis Balls
+- Tumble Dry Permanent Press Low
+- Wash Separately
+
+Intended Use:
+- Everyday
+

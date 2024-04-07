@@ -1,0 +1,50 @@
+Product URL: mens/secant-comp-pant
+
+ID: X000007365
+
+Name: Secant Comp Pant
+
+Description:
+A lightweight stretch woven pant featuring an adjustable waistband is designed for transitioning between high output activity and everyday wear.
+
+Short Description:
+A lightweight stretch woven pant.
+
+Features:
+- Wind resistant
+- Water resistant
+- Highly breathable
+
+Gender Category:
+Men's
+
+Categories:
+- Pants
+
+Subcategories:
+- Breathable
+- Lightweight
+- Wind Resistant
+- Water Resistant
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordClimate: WARM CONDITIONS, climate, hot, spring, springtime, summer, summertime, temperature, temperatures, warm, warm weather activities, dry climate
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility
+  keywordPants: PANTS, pant, pantalons, pants, trousers
+  keywordVeilance: Veilance, urban, technical, peformance, menswear, office, attire
+
+Manufacturing Facility:
+Zplus Company Limited
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Gentle Low
+- Do Not Use Fabric Softener
+- Tumble Dry Permanent Press Low
+
+Intended Use:
+

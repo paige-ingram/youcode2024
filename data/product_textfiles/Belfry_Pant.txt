@@ -1,0 +1,55 @@
+Product URL: womens/belfry-pant
+
+ID: X000007657
+
+Name: Belfry Pant
+
+Description:
+Graceful four-pocket pant with a straight leg. Comfortable, refined, a city essential for variable conditions. Offering stretch, durability, drape, and comfort, the Belfry’s Fortius™ 2.0 softshell is made from recycled nylon. A water-repellent finish helps shed light moisture. All the finishes are clean. Laminated zipper, taped seams, minimalist waistband. The fit is comfortable, and the patterning creates structure and is articulated for freedom of movement.
+
+Short Description:
+Straight-leg pant balancing wind and weather protection with breathable comfort.
+
+Features:
+- Breathable
+- Durable
+- Wind resistant
+- Water repellent
+
+Gender Category:
+Women's
+
+Categories:
+- Pants
+
+Subcategories:
+- Wind Resistant
+- Water Resistant
+- bluesign® Approved Materials
+- Recycled Content
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordPants: PANTS, pant, pantalons, pants, trousers, ,PANT CASUAL, casual, office attire, urban pant, wear, trousers, pant, pants
+  keywordSpecific: Veilance, urban, technical, peformance, menswear, office, attire
+  keywordVeilance: Veilance, urban, technical, peformance, menswear, office, attire
+
+Manufacturing Facility:
+LEVERSTYLE
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Double Rinse
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Normal Low
+
+Intended Use:
+- New Arrivals
+

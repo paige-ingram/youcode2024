@@ -1,0 +1,53 @@
+Product URL: mens/covert-hoody
+
+ID: X000005555
+
+Name: Covert Hoody
+
+Description:
+Unpredictable alpine environments demand clothing with performance and protection that carries you from trail to camp. The Covert Hoody’s iconic Arc’teryx design – clean, efficient, effective – creates a warming layer that works all day and performs under a shell or on its own. The warm, soft Alpenex II™ heathered fleece is made from 100% recycled polyester. Gusseted underarms provide freedom of movement, laminated pockets keep essentials at hand, and the low-profile fitted hood extends the warmth.
+
+Short Description:
+Our iconic midweight fleece made from warm, soft 100% recycled polyester.
+
+Features:
+- Versatile
+- Warm and comfortable
+- Midweight warmth
+
+Gender Category:
+Men's
+
+Categories:
+- Fleece
+
+Subcategories:
+- Fleece
+- Fair Trade Certified
+- Recycled Content
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordClimate: COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer
+  keywordGeneric: ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,HARDFLEECE, hard fleece, fleece, fleece, hardfleece, hard fleece, snow-shedding, snow shedding
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordSpecific: sweater, Sweater, Sweeter, Swater, Pullover, pull over, jumper, ,FAIR TRADE, fairtrade, fair trade certified
+
+Manufacturing Facility:
+SANTA CLARA COMPANY LIMITED
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Line Dry
+- Do Not Iron
+- Machine Wash Gentle Low
+- Do Not Use Fabric Softener
+- Wash Inside Out
+
+Intended Use:
+- Hiking and Trekking
+- Everyday
+

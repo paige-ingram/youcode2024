@@ -1,0 +1,52 @@
+Product URL: mens/dromos-tech-polo-shirt-ss
+
+ID: X000006470
+
+Name: Dromos Tech Polo Shirt SS
+
+Description:
+The polo shirt is a summer wardrobe requirement. The Dromos leverages technical materials, advanced construction, and a distinctive Veilance aesthetic for elevated performance and a modern look. The composite construction maps a wicking polyester and a lightweight jersey to optimize durability, breathability, and moisture management. Ultrasonic finishing throughout creates exceptionally clean seams for superior comfort and a streamlined finish. The fit is relaxed, and articulation improves freedom of movement.
+
+Short Description:
+Elevated performance in a versatile summer polo for multiple activities.
+
+Features:
+- Moisture-wicking
+- Breathable
+
+Gender Category:
+Men's
+
+Categories:
+- Shirts and Tops
+
+Subcategories:
+- Collared
+- Lightweight
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordClimate: WARM CONDITIONS, climate, hot, spring, springtime, summer, summertime, temperature, temperatures, warm, warm weather activities, dry climate
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,MOISTURE WICKING/ BREATHABLE, breathability, breathable, breathible, eliminating, moisture repelling, moisture removing, moisture wicking, quick drying, quick-drying, venting, wicking, wicks moisture, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordSpecific: Veilance, urban, technical, peformance, menswear, office, attire
+  keywordVeilance: Veilance, urban, technical, peformance, menswear, office, attire
+
+Manufacturing Facility:
+VIET THUAN APPAREL COMPANY LIMITED (RSI)
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Double Rinse
+- Do Not Dry Clean
+- Do Not Iron
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Remove Immediately
+- Tumble Dry Normal Low
+
+Intended Use:
+- Exclusives
+

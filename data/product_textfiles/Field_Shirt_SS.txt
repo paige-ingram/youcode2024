@@ -1,0 +1,52 @@
+Product URL: mens/field-shirt-ss
+
+ID: X000006526
+
+Name: Field Shirt SS
+
+Description:
+Clean lines in a refined design that touches on classic but is indisputably modern. Comfortable, highly-breathable performance material provides comfort in warm conditions. This is an essential shirt for city summers. Air-permeable polyester is soft, light, and made with wicking fibres. Four-way stretch and articulated patterning remove restriction. Dual flapped chest pockets, hidden snap front, and a stand collar finish its iconic Field style.
+
+Short Description:
+Light, breathable short-sleeve shirt with refined city style.
+
+Features:
+- Moisture-wicking
+- Breathable
+- Lightweight
+- Quick-drying
+- Air permeable
+
+Gender Category:
+Men's
+
+Categories:
+- Shirts and Tops
+
+Subcategories:
+- Moisture Wicking
+- bluesign® Approved Materials
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordClimate: WARM CONDITIONS, climate, hot, spring, springtime, summer, summertime, temperature, temperatures, warm, warm weather activities, dry climate
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,MOISTURE WICKING/ BREATHABLE, breathability, breathable, breathible, eliminating, moisture repelling, moisture removing, moisture wicking, quick drying, quick-drying, venting, wicking, wicks moisture, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordSpecific: Veilance, urban, technical, peformance, menswear, office, attire
+  keywordVeilance: Veilance, urban, technical, peformance, menswear, office, attire
+
+Manufacturing Facility:
+J. CAETANO AND FILHAS LDA
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Gentle Low
+- Do Not Use Fabric Softener
+- Tumble Dry Normal Low
+
+Intended Use:
+

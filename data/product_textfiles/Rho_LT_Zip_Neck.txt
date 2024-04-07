@@ -1,0 +1,48 @@
+Product URL: mens/rho-lt-zip-neck
+
+ID: X000005253
+
+Name: Rho LT Zip Neck
+
+Description:
+Comfort starts with your base layer. Made for performance during lower output activities on cool days, the Rho LT zip-neck adds warmth, moves moisture, and is soft next to the skin. Its Torrent™ fabric is brushed for thermal performance and comfort, and a Polygiene® treatment provides odour control. The trim fit maximizes fabric performance and facilitates layering, a deep front zip makes it easy to pull on and off, the chest pocket secures your smartphone, and the tall collar adds warmth.
+
+Short Description:
+Performance base layer for lower output activities in cool to cold temperatures. | LT: Lightweight.
+
+Features:
+- Moisture-wicking
+
+Gender Category:
+Men's
+
+Categories:
+- Base Layer
+
+Subcategories:
+- Synthetic
+
+Keywords:
+  keywordActivities: SKI TOURING, alpine ski touring, apparel, ascent, backcountry ski touring, cross country ski touring, descent, equipment, gear, out of bounds skiing, ski tour, ski touring, ski touring equipment, ski touring gear, snowsports, telemark skier, telemark skiing, touring equi,HIKING, adventure hiking, alpine, alpinist, alpinists, apparel, backcountry, backpacker, backpacking, equipment, gear, high alpine, hike, hiker, hikers, hiking, hiking climbing, hiking equipment, hiking route, hiking trip, hiking trips, mountain, mountain hiking, mountain top, ,TREKKING/ BACKPACKING, adventure trekking, alpinist, alpinists, apparel, backcountry backpacking, backcountry trekking, backpacker, backpacking, backpacking trails, backpacking trip, backpacking trips, equipment, gear, high alpine, mountain, ski backpacking, travel, trave,SKIING, alpine skiing, apparel, backcountry skiing, descent, equipment, gear, mountain, piste, ski, ski clothing, ski conditions, ski equipment, ski gear, ski slope, ski sports, ski trips, skier, skiers, Skifahren, skiing, slope, slopes, snow, snow skiing, snowsports, winter ski, ,SNOWBOARDING, apparel, backcountry snowboarding, descent, equipment, gear, snow boarding, snowboard, snowboard clothing, snowboard equipment, snowboard gear, snowboarder, snowboarding, snowboarding equipment, snowborder, snowbording, snowsports
+  keywordClimate: COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer
+  keywordCRMCampaigns: F10-BaseLayer, BASE LAYER, baselayer, base-layer, PREMIÈRE COUCHE, première-couche, premiere-couche, sous-vêtements, sous-vetements, sous vetements, ,layering-system, ,F12-Holiday3-bestsellers, ,F12-Holiday4-Baselayer, ,F12-midlayers
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,MOISTURE WICKING/ BREATHABLE, breathability, breathable, breathible, eliminating, moisture repelling, moisture removing, moisture wicking, quick drying, quick-drying, venting, wicking, wicks moisture, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility
+  keywordInsulation: INSULATION, body heat, body temperature, bonded poly, comfort, core temperature, fleece, fleese, hardface, heat retention, heat transfer, loft, insulated, insulation, insulation layer, insulation piece, layering, loft, polartec, prima loft, primaloft, thermal, thermal pro, war,LIGHT WEIGHT INSULATION, feather weight, featherweight, light weight, lightweight, super light, superlight, ultra light, ultralight, ultra-light, ,Phase AR Crew LS,Phase AR Zip Neck LS
+  keywordSpecific: thermal, thermals, underwear, underwear, base layer, undies
+  keywordTops: Phase SL Zip Neck LS,rho ar zip neck,Rho LT Hooded Zip Neck
+
+Manufacturing Facility:
+PT.PANCAPRIMA EKABROTHERS
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Do Not Iron
+- Machine Wash Gentle Low
+- Do Not Use Fabric Softener
+- Tumble Dry Gentle Low
+
+Intended Use:
+- Skiing and Snowboarding
+

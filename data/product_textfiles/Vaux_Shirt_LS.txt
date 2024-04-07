@@ -1,0 +1,55 @@
+Product URL: womens/vaux-shirt-ls
+
+ID: X000007026
+
+Name: Vaux Shirt LS
+
+Description:
+The perfect summer hiking shirt – it provides performance for hot days on the trail with a versatility that takes it across a range of activities, terrain, and environments.  The Vaux delivers. Light, soft, and airy, its breathable Diem™ polyester is made with wicking fibres and 100% recycled content. The fit is streamlined, and articulated patterning works with the fabric’s stretch to streamline the fit and give you freedom to move.
+
+Short Description:
+Cool, airy shirt designed for comfort on summer hikes and outdoor adventures.
+
+Features:
+- Breathable
+- Lightweight
+- Quick-drying
+- Versatile
+- Air permeable
+
+Gender Category:
+Women's
+
+Categories:
+- Shirts and Tops
+
+Subcategories:
+- Collared
+- Synthetic
+- Button Up
+- Long Sleeve
+- bluesign® Approved Materials
+- Recycled Content
+- Sun Protection
+
+Keywords:
+  keywordActivities: HIKING, adventure hiking, alpine, alpinist, alpinists, apparel, backcountry, backpacker, backpacking, equipment, gear, high alpine, hike, hiker, hikers, hiking, hiking climbing, hiking equipment, hiking route, hiking trip, hiking trips, mountain, mountain hiking, mountain top
+  keywordClimate: WARM CONDITIONS, climate, hot, spring, springtime, summer, summertime, temperature, temperatures, warm, warm weather activities, dry climate
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,MOISTURE WICKING/ BREATHABLE, breathability, breathable, breathible, eliminating, moisture repelling, moisture removing, moisture wicking, quick drying, quick-drying, venting, wicking, wicks moisture, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+
+Manufacturing Facility:
+Vastco Garments Ltd
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Normal Low
+
+Intended Use:
+- Hiking and Trekking
+

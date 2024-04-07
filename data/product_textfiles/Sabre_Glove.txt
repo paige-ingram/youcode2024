@@ -1,0 +1,50 @@
+Product URL: sabre-glove
+
+ID: X000007454
+
+Name: Sabre Glove
+
+Description:
+An insulated GORE-TEX glove for big mountain freeriding, the Sabre delivers warmth and protection with grip and dexterity. Designed with a low-profile bonded cuff for easy layering, its weather protection comes from a breathable, anatomically-shaped GORE-TEX insert that seals out wet, wind, and snow. A Fortius™ 1.0 softshell outer provides abrasion resistance and stretch performance, leather palm reinforcements up durability, and two types of PrimaLoft™ insulation provide warmth.
+
+Redesigned with a lower-profile bonded cuff for easier layering under a jacket.  
+
+Short Description:
+Durable, comfortable insulated GORE-TEX glove for freeride skiing and snowboarding. 
+
+Features:
+- Durable
+- Warm and comfortable
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Gloves
+- GORE-TEX (Waterproof)
+
+Keywords:
+  keywordAccessories: GLOVES, glove, gloves, mitt, mitten, mittens, gants
+  keywordActivities: SKIING, alpine skiing, apparel, backcountry skiing, descent, equipment, gear, mountain, piste, ski, ski clothing, ski conditions, ski equipment, ski gear, ski slope, ski sports, ski trips, skier, skiers, Skifahren, skiing, slope, slopes, snow, snow skiing, snowsports, winter ski, ,SNOWBOARDING, apparel, backcountry snowboarding, descent, equipment, gear, snow boarding, snowboard, snowboard clothing, snowboard equipment, snowboard gear, snowboarder, snowboarding, snowboarding equipment, snowborder, snowbording, snowsports
+  keywordClimate: COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer, ,SNOWY CONDITIONS, blizzard, deep snow, hydrophobic, powder, protection from snow, sleet, snow, snow conditions, snow flurry, snow precipitation, snow protection, snow shedding, snowfall, winter, ,WATER-RESISTANCE, hydrophobic, rain proof, rain resistant, seam sealed, seam-sealed, water, water proof, water proof, water proofing, water repellant, water repellent, water resistant, water resistent, waterproof, waterproof, wet climate
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,GLOVES, gloves, glove, gants, gant, hand protection, mitts, snow gloves, ski gloves, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordGloves: GLOVES WATERPROOF, waterproof gloves, waterproof glove, weather resistant, windproof, ski gloves, ski glove
+  keywordLocations: PLACE-SNOW, alp, alpine, back country, backcountry, crevasse, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, off-piste, on-piste, peak, peaks, piste, summit, tree line
+  keywordMaterials: GORE-TEX, gore tex, goretex, gore-tex, GORE-TEX
+
+Manufacturing Facility:
+HUNG WAY CO., LTD (Palace)
+
+Care Instructions:
+- Do Not Bleach
+- Do Not Dry Clean
+- Line Dry
+- Hand Wash Cold
+- Do Not Iron
+
+Intended Use:
+- Skiing and Snowboarding
+

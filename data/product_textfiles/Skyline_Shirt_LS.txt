@@ -1,0 +1,51 @@
+Product URL: mens/skyline-shirt-ls
+
+ID: X000007410
+
+Name: Skyline Shirt LS
+
+Description:
+Design drives evolution. We took an urban necessity, the classic button-down shirt, and elevated it with technical performance, sustainable materials, and cleaner lines. Light, breathable and quick drying, the Skyline Shirt LS wicks moisture and stays cool. Stretch and articulation form the fit and give you freedom to move. A zippered chest pocket secures smartphone or passport, the placket’s hidden snap front gives it its distinct style, and the soft Diem™ fabric is made from 100% recycled polyester.Updated with a revised fit.
+
+Short Description:
+Modern snap-front in a soft, light, wrinkle-resistant 100%-recycled performance fabric.
+
+Features:
+- Moisture-wicking
+- Breathable
+- Lightweight
+- Wrinkle resistant
+- Quick-drying
+
+Gender Category:
+Men's
+
+Categories:
+- Shirts and Tops
+
+Subcategories:
+- Collared
+- Long Sleeve
+- bluesign® Approved Materials
+- Sun Protection
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection
+
+Manufacturing Facility:
+Vastco Garments Ltd
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Normal Low
+
+Intended Use:
+- Everyday
+

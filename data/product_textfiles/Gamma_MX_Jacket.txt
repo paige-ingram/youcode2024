@@ -1,0 +1,52 @@
+Product URL: mens/gamma-mx-jacket
+
+ID: X000006343
+
+Name: Gamma MX Jacket
+
+Description:
+Created for the dynamic demands of alpine travel, the Gamma MX Jacket is a proven performer. Built from our Fortius™ 2.0 fabric, the Gamma MX provides midweight insulation, resists wind and water, breathes, and delivers exceptional durability. A go-to for climbers and backcountry adventurers, its articulated patterning and stretch combine for freedom of movement, crossover chest pockets are easily accessed while wearing a harness, and the trim fit and streamlined design give it a distinct Arc’teryx aesthetic.Crafted at a Fair Trade Certified facility as part of our commitment to transition 80% of Arc’teryx products to fair trade certification by 2025.
+
+Short Description:
+Warm, weather resistant, exceptionally durable softshell jacket. Gamma Series: Softshell outerwear with stretch. | MX: Mixed Weather.
+
+Features:
+- Weather resistant
+- Breathable
+- Lightly insulated
+- Durable
+
+Gender Category:
+Men's
+
+Categories:
+- Shell Jackets
+
+Subcategories:
+- Softshell
+- Fair Trade Certified
+
+Keywords:
+  keywordActivities: CLIMBING, abseil, abseiling, adventure climbing, aid climbing, alpine climbing, apparel, ascent, belay, bouldering, climber, climbers, climbing, climbing equipment, climbing gear, climbing gym, climbing route, climbing routes, climbing wall, clothing, crag, cragging, equipmen
+  keywordClimate: COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer, ,WIND-RESISTANCE, wind, wind block, wind blocker, wind breaker, wind pro, wind proof, wind protector, wind resistant, wind resistent, wind shell, windbreaker, windproof
+  keywordGeneric: SOFT SHELL, shell, soft shell, softshell, soft-shell, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+  keywordSpecific: Active Shell, ,FAIR TRADE, fairtrade, fair trade certified
+  keywordJackets: JACKET SOFTSHELL, softshell, soft shell
+
+Manufacturing Facility:
+YOUNGONE NAM DINH COMPANY LTD
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Double Rinse
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Gentle Low
+- Do Not Use Fabric Softener
+- Tumble Dry Permanent Press Low
+
+Intended Use:
+- Alpine and Rock Climbing
+

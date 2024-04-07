@@ -1,0 +1,55 @@
+Product URL: venta-mitten
+
+ID: X000007506
+
+Name: Venta Mitten
+
+Description:
+Light, warm, and windproof – the Venta is a streamlined mitten for cross-country skiing, winter trail runs, and cold-weather hikes. The GORE-TEX INFINIUM™ softshell fabric blocks wind, repels rain and snow, and breathes. The fleeced interior adds light warmth, dexterity is built into the patterning, and TPU palm reinforcements enhance durability and improve grip. Sensors let you use your touchscreen devices, and a reinforced tab makes it easy to pull them on.
+
+Redesigned with a more durable reinforced leather tab and breathable Octa Loft™ insulation. 
+
+Short Description:
+Lightweight, windproof, breathable, weather-resistant GORE-TEX INFINIUM™ mittens.
+
+Features:
+- Weather resistant
+- Windproof
+- Breathable
+- Lightweight
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Gloves
+- Mittens
+
+Keywords:
+  keywordAccessories: GLOVES, glove, gloves, mitt, mitten, mittens, gants
+  keywordActivities: NORDIC, apparel, backcountry ski gear, backcountry skiing, cross country ski trail, cross country skier, cross country skiing, crosscountry skiing, equipment, gear, nordic skier, nordic skiing, nordic skiing equipment, nordic skiing gear, skate skier, skate skiing, ski,HIKING, adventure hiking, alpine, alpinist, alpinists, apparel, backcountry, backpacker, backpacking, equipment, gear, high alpine, hike, hiker, hikers, hiking, hiking climbing, hiking equipment, hiking route, hiking trip, hiking trips, mountain, mountain hiking, mountain top, ,TRAIL RUNNING, running, adventure, apparel, athletic running, competition, Course a pieds, cross country, cross country running, distance running, endurance, endurance running, equipment, gear, jogging, long distance running, marathon running, mountain, mountains, orientee
+  keywordClimate: WEATHER-RESISTANCE, climate, elements, hydrophobic, outdoor protection, protect against the elements, protection against the elements, shelter, Storm protection, weather, weather protection, weather resistant, weather resistent, weatherproof construction, ,COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordGloves: GLOVES, gloves, mitts, glove, mitt, handshuh, gants
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness, ,PLACE-SNOW, alp, alpine, back country, backcountry, crevasse, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, off-piste, on-piste, peak, peaks, piste, summit, tree line
+
+Manufacturing Facility:
+HUNG WAY CO., LTD (Palace)
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Double Rinse
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Normal Low
+
+Intended Use:
+- Skiing and Snowboarding
+- Trail Running
+

@@ -1,0 +1,57 @@
+Product URL: mens/sawyer-hoody
+
+ID: X000006614
+
+Name: Sawyer Hoody
+
+Description:
+Inspired by the epic and designed for all you take on, the Sawyer comfortably inhabits all your environments.  Its 3L GORE-TEX INFINIUM™ fabric is soft, quiet, weather resistant, and windproof. Highly breathable, it’s perfect for moving fast on chilly days. A lightweight fleece backer adds warmth without bulk, the zippered chest pocket secures your smartphone, and an adjustable hood adds protection.
+
+The Sawyer Hoody was previously the Sawyer Softshell Jacket.
+
+Short Description:
+Performance and style in a windproof, weather-resistant GORE-TEX INFINIUM™ jacket.
+
+Features:
+- Windproof
+- Water resistant
+- Highly breathable
+
+Gender Category:
+Men's
+
+Categories:
+- Shell Jackets
+
+Subcategories:
+- Softshell
+- Windproof
+- Water Resistant
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordClimate: COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer
+  keywordGeneric: SOFT SHELL, shell, soft shell, softshell, soft-shell
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordSpecific: Veilance, urban, technical, peformance, menswear, office, attire
+  keywordJackets: JACKET SOFTSHELL, softshell, soft shell
+
+Manufacturing Facility:
+SPECTRE GARMENT TECHNOLOGIES VIETNA
+
+Care Instructions:
+- Do Not Bleach
+- Double Rinse
+- Do Not Dry Clean
+- Do Not Iron
+- Machine Wash Medium
+- Do Not Use Fabric Softener
+- Do Not Leave Wet
+- Remove Immediately
+- Tumble Dry Normal Medium
+- Wash Separately
+
+Intended Use:
+- Everyday
+

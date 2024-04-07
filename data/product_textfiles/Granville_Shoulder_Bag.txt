@@ -1,0 +1,50 @@
+Product URL: granville-shoulder-bag
+
+ID: X000006316
+
+Name: Granville Shoulder Bag
+
+Description:
+Waterproof and durable, the Granville Shoulder Bag gets you where you’re going. It’s made from our alpine-proven N400r-AC² ripstop fabric and constructed to seal out rain and snow. There’s a quick-access front pocket, and a main compartment sized for your day’s kit.
+
+Short Description:
+Waterproof, durable, hands-free carry for light hiking and off-mountain use.
+
+Features:
+- Weather resistant
+- Lightweight
+- Durable
+
+Gender Category:
+unisex
+
+Categories:
+- Packs
+
+Subcategories:
+- Laptop Compatible
+- Travel and Commute
+- bluesign® Approved Materials
+- Recycled Content
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish, ,TRAVELLING, commute, commuter, travel, travelling, traveling, journey, urban, city travel, city, business travel, business, ,HIKING, adventure hiking, alpine, alpinist, alpinists, apparel, backcountry, backpacker, backpacking, equipment, gear, high alpine, hike, hiker, hikers, hiking, hiking climbing, hiking equipment, hiking route, hiking trip, hiking trips, mountain, mountain hiking, mountain top
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness, ,URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordPacks: MESSENGER, messenger backpack, messenger backpacks, shoulder backpack, shoulder backpacks
+
+Manufacturing Facility:
+MOUNTAINEERING INSTRUMENTS CORPORAT -/DI-PH
+
+Care Instructions:
+- Do Not Bleach
+- Do Not Dry Clean
+- Do Not Iron
+- Surface Clean Only
+- Do Not Tumble Dry
+- Do Not Wash
+
+Intended Use:
+- Everyday
+

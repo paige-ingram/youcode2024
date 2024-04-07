@@ -1,0 +1,58 @@
+Product URL: mens/nuclei-vest
+
+ID: X000006767
+
+Name: Nuclei Vest
+
+Description:
+Worn as a winter midlayer or a standalone to cut the chill on summer nights at camp, the all-season, all-mountain Nuclei delivers core warmth and windproof protection. Packable, breathable recycled Coreloft™ insulates. The Arato™ shell is light, durable, and blocks wind, and the liner minimizes airflow to seal in warmth. The streamlined fit and ergonomic patterning keep it comfortable under a shell, and the materials and minimalist design create a compact, lightweight package that fits easily in your pack.
+
+Short Description:
+Windproof Coreloft™ insulated vest providing core warmth for a range of pursuits.
+
+Features:
+- Windproof
+- Great warmth-to-weight ratio
+- Compressible and packable
+- Durable
+- Water resistant
+
+Gender Category:
+Men's
+
+Categories:
+- Insulated Jackets
+
+Subcategories:
+- Windproof
+- Synthetic Fill
+- Vests
+- bluesign® Approved Materials
+- Recycled Content
+
+Keywords:
+  keywordActivities: MOUNTAINEERING, mountaineering, mountain climbing
+  keywordClimate: COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,MOISTURE WICKING/ BREATHABLE, breathability, breathable, breathible, eliminating, moisture repelling, moisture removing, moisture wicking, quick drying, quick-drying, venting, wicking, wicks moisture, ,COMPRESSIBLE, compact, compressible, compressibility, compression, pac lite, packable, paclite, pac-lite, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,MID LAYER, midlayer, mid-layer, middle layer, SECONDE COUCHE, seconde-couche, ,VEST: vest, gilet
+  keywordInsulation: INSULATION, body heat, body temperature, bonded poly, comfort, core temperature, fleece, fleese, hardface, heat retention, heat transfer, loft, insulated, insulation, insulation layer, insulation piece, layering, loft, polartec, prima loft, primaloft, thermal, thermal pro, war
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+  keywordMaterials: CORELOFT, coreloft, corloft
+
+Manufacturing Facility:
+YOUNGONE (CEPZ) LTD
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Double Rinse
+- Do Not Dry Clean
+- Front Load Washer Recommended
+- Do Not Iron
+- Use Mesh Bag For Top Load Washer
+- Machine Wash Gentle Low
+- Do Not Use Fabric Softener
+- Tumble Dry Gentle Low
+
+Intended Use:
+- Alpine and Rock Climbing
+

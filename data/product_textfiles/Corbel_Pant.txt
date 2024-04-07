@@ -1,0 +1,54 @@
+Product URL: mens/corbel-pant
+
+ID: X000007286
+
+Name: Corbel Pant
+
+Description:
+Relaxed fit, clean design, performance softshell fabric. The Corbel is a midweight pant for cooler conditions and transitional weather in city environments. The material, Wee Burly™ Double Weave, provides stretch and repels wind and water. A brushed backer adds light insulation and comfort. Laminated hems are clean and refined, and the relaxed fit, straight leg, and articulated patterning combine for an unrestricted pant with the distinctive Veilance aesthetic. 
+
+Short Description:
+Midweight pant with a versatile relaxed fit and clean, minimalist design. 
+
+Features:
+- Durable
+- Wind resistant
+- Water repellent
+
+Gender Category:
+Men's
+
+Categories:
+- Pants
+
+Subcategories:
+- Softshell
+- Wind Resistant
+- Synthetic
+- bluesign® Approved Materials
+- Recycled Content
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordPants: PANTS, pant, pantalons, pants, trousers, ,PANT CASUAL, casual, office attire, urban pant, wear, trousers, pant, pants
+  keywordSpecific: Veilance, urban, technical, peformance, menswear, office, attire
+  keywordVeilance: Veilance, urban, technical, peformance, menswear, office, attire
+
+Manufacturing Facility:
+Zplus Company Limited
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Double Rinse
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Normal Low
+
+Intended Use:
+

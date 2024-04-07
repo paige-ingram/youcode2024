@@ -1,0 +1,51 @@
+Product URL: norvan-visor
+
+ID: X000007096
+
+Name: Norvan Visor
+
+Description:
+Sun protection so light and comfortable you'll forget you're wearing it; the Norvan Visor is made for trail running and adventure in motion. Its elastic headband holds securely and helps keep sweat off your face, and the soft brim helps keep it light and packable. Reflective elements add low-light visibility, and a DWR (Durable Water Repellent) treatment helps minimize moisture pick-up. 
+
+Short Description:
+Light, comfortable face protection for trail running and mountain adventure.
+
+Features:
+- Breathable
+- Lightweight
+- Compact
+- Packable
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Hats and Caps
+- Breathable
+- Synthetic
+- Reflective
+
+Keywords:
+  keywordAccessories: HATS, hat, toque, beanie, beany, woolly hat, chapeau, headgear, headwear, head wear
+  keywordActivities: TRAIL RUNNING, running, adventure, apparel, athletic running, competition, Course a pieds, cross country, cross country running, distance running, endurance, endurance running, equipment, gear, jogging, long distance running, marathon running, mountain, mountains, orientee
+  keywordClimate: WARM CONDITIONS, climate, hot, spring, springtime, summer, summertime, temperature, temperatures, warm, warm weather activities, dry climate
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+
+Manufacturing Facility:
+ZHONGSHAN WEILI TEXTILE CO., LTD(Supercap)
+
+Care Instructions:
+- Do Not Bleach
+- Do Not Dry Clean
+- Do Not Iron
+- Surface Clean Only
+- Do Not Tumble Dry
+- Do Not Wash
+
+Intended Use:
+- Trail Running
+

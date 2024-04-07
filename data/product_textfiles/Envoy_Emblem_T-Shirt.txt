@@ -1,0 +1,51 @@
+Product URL: womens/envoy-emblem-t-shirt
+
+ID: X000006635
+
+Name: Envoy Emblem T-Shirt
+
+Description:
+Comfortable – and made to go anywhere – the Envoy Emblem blends organic cotton comfort with performance fibres in a soft, heavyweight 240gsm fabric. The relaxed fit and gusseted underarms give you room to move, and contrast ribbing trims the sleeves and collar.
+
+Short Description:
+Comfortable graphic T-shirt made from a heavyweight organically grown cotton blend.
+
+Features:
+- Breathable
+- Lightweight
+- Versatile
+
+Gender Category:
+Women's
+
+Categories:
+- Shirts and Tops
+
+Subcategories:
+- T-Shirts
+- Cotton Blend
+- Synthetic
+- Organically Grown Cotton
+
+Keywords:
+  keywordCasual: T-SHIRT, t shirt, t-shirt, tee, tank top
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+
+Manufacturing Facility:
+NAN YANG GARMENT CO., LTD.
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Gentle Low
+
+Intended Use:
+- Hiking and Trekking
+- Everyday
+- Alpine and Rock Climbing
+

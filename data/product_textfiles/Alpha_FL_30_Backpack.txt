@@ -1,0 +1,47 @@
+  Product URL: alpha-fl-30-backpack
+
+  ID: X000006210
+
+  Name: Alpha FL 30 Backpack
+
+  Description:
+  Fast, light, and alpine strong. The Alpha FL 30 Backpack is hardwired for climbing. Exceptionally weather-resistant and durable, it’s made from our proprietary 315d Hadron™ AC² LCP grid fabric to deliver unrivaled abrasion resistance for its weight. The streamlined profile stays out of the way, and the intuitive pull-to-open/pull-to-close drawcord system gives quick and easy access. A top strap secures a rope, six lash points and an integrated bungee system provide external carry options, and an embedded RECCO® reflector can aid search in rescue situations.
+
+  Short Description:
+  Streamlined, weather-resistant climbing pack in our light, durable Hadron™ LCP fabric.
+
+  Features:
+  - Weather resistant
+  - Durable
+
+  Gender Category:
+  unisex
+
+  Categories:
+  - Climbing Gear
+  - Packs
+
+  Subcategories:
+  - Daypacks
+  - Wind Resistant
+  - Water Resistant
+
+  Keywords:
+    keywordActivities: CLIMBING, abseil, abseiling, adventure climbing, aid climbing, alpine climbing, apparel, ascent, belay, bouldering, climber, climbers, climbing, climbing equipment, climbing gear, climbing gym, climbing route, climbing routes, climbing wall, clothing, crag, cragging, equipmen
+    keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility
+    keywordPacks: PACKS, Backpack, backpacking, Backpacks, bag, day backpack, day backpacks, duffel bag, duffle, duffle bag, expedition packs, haul bag, haversack, hiking backpack, hiking backpacks, kit bag, knapsack, mesh backpack, mesh backpacks, outdoor backpack, outdoor backpacks, pack, pa,RUSK SACK, ruck sack, rucksack, ????,????,Alpha FL 45 Backpack,Backpack, ????
+
+  Manufacturing Facility:
+  MOUNTAINEERING INSTRUMENTS CORPORAT -/DI-PH
+
+  Care Instructions:
+  - Do Not Bleach
+  - Do Not Dry Clean
+  - Do Not Iron
+  - Surface Clean Only
+  - Do Not Tumble Dry
+  - Do Not Wash
+
+  Intended Use:
+  - Alpine and Rock Climbing
+

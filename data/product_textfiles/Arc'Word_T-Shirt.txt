@@ -1,0 +1,49 @@
+Product URL: womens/arc-word-t-shirt
+
+ID: X000005453
+
+Name: Arc'Word T-Shirt
+
+Description:
+Naturally comfortable, this women’s crew neck tee is made from 100% organically-grown Pima cotton for outstanding softness – then bio-washed to make it even softer.
+Size and Fit Tips: Relaxed Fit - This fit is cut loosely through the chest, waist, hip, and thigh. Relaxed without sacrificing structure and clean lines, it offers comfort and freedom of movement with a more casual look. Be sure to reference our new sizing charts before you check out. 
+
+Short Description:
+Soft, comfortable women’s tee made from 100% organically-grown Pima cotton.
+
+Features:
+- Lightweight
+
+Gender Category:
+Women's
+
+Categories:
+- Shirts and Tops
+
+Subcategories:
+- T-Shirts
+- Organically Grown Cotton
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban, ,T-SHIRT, t shirt, t-shirt, tee, tank top
+  keywordClimate: WARM CONDITIONS, climate, hot, spring, springtime, summer, summertime, temperature, temperatures, warm, warm weather activities, dry climate
+  keywordGeneric: ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordTops: Arc'Word SS T-Shirt
+
+Manufacturing Facility:
+NAN YANG GARMENT CO., LTD.
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Normal Low
+
+Intended Use:
+- Everyday
+

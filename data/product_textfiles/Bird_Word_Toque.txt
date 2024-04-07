@@ -1,0 +1,51 @@
+Product URL: bird-word-toque
+
+ID: X000006644
+
+Name: Bird Word Toque
+
+Description:
+Slopeside, backcountry tours, trips to town – our do-it-all logo toque provides warmth and comfort on the mountain and off. It’s made with recycled polyester, and packs easily to go anywhere.&nbsp;
+
+Short Description:
+Classic Arc’teryx toque made with warm, comfortable recycled polyester.
+
+Features:
+- Versatile
+- Warm and comfortable
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Toques and Beanies
+- Recycled Content
+
+Keywords:
+  keywordAccessories: HATS, hat, toque, beanie, beany, woolly hat, chapeau, headgear, headwear, head wear
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish, ,MOUNTAINEERING, mountaineering, mountain climbing
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordClimate: COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer
+  keywordGeneric: GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness, ,URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+
+Manufacturing Facility:
+PT Uwu Jump Indonesia
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Dry Flat
+- Hand Wash Cold
+- Do Not Iron
+- Do Not Use Fabric Softener
+- Do Not Wring
+
+Intended Use:
+- Skiing and Snowboarding
+- Alpine and Rock Climbing
+

@@ -1,0 +1,44 @@
+Product URL: bucket-hat
+
+ID: X000004681
+
+Name: Bucket Hat
+
+Description:
+A waterproof GORE-TEX 3 layer C-KNIT™ bucket hat with a hidden cord adjustment system for a secure fit.
+
+Short Description:
+A waterproof GORE-TEX 3 layer C-KNIT™ bucket hat.
+
+Features:
+- Waterproof
+- Windproof
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Hats and Caps
+- GORE-TEX (Waterproof)
+
+Keywords:
+  keywordClimate: RAINY CONDITIONS, rain,WIND-RESISTANCE, wind, wind block, wind blocker, wind breaker, wind pro, wind proof, wind protector, wind resistant, wind resistent, wind shell, windbreaker, windproof, ,WATER-RESISTANCE, hydrophobic, rain proof, rain resistant, seam sealed, seam-sealed, water, water proof, water proof, water proofing, water repellant, water repellent, water resistant, water resistent, waterproof, waterproof, wet climate
+  keywordMaterials: GORE-TEX, gore tex, goretex, gore-tex, GORE-TEX
+  keywordVeilance: Veilance, urban, technical, peformance, menswear, office, attire
+
+Manufacturing Facility:
+ZHONGSHAN WEILI TEXTILE CO., LTD(Supercap)
+
+Care Instructions:
+- Do Not Bleach
+- Do Not Dry Clean
+- Do Not Iron
+- Surface Clean Only
+- Do Not Tumble Dry
+- Do Not Wash
+
+Intended Use:
+

@@ -1,0 +1,54 @@
+Product URL: mens/rho-lt-bottom
+
+ID: X000004864
+
+Name: Rho LT Bottom
+
+Description:
+The Rho LT is your lightweight thermal base layer for low and medium output when it’s cold out. The odour-resistant Torrent™ fabric has a soft, brushed surface that speeds moisture transfer and delivers serious comfort next to the skin. Elastane fibres add stretch and work with the articulated patterning and gusseted crotch for freedom of movement. The waistband is designed for comfort and easy layering, and a smart thigh pocket stashes a smartphone.
+
+Short Description:
+Performance base layer for lower output activities in cool to cold temperatures. | LT: Lightweight.
+
+Features:
+- Moisture-wicking
+- Breathable
+- Great warmth-to-weight ratio
+- Insulated
+- Quick-drying
+
+Gender Category:
+Men's
+
+Categories:
+- Base Layer
+
+Subcategories:
+- Synthetic
+
+Keywords:
+  keywordActivities: HIKING, adventure hiking, alpine, alpinist, alpinists, apparel, backcountry, backpacker, backpacking, equipment, gear, high alpine, hike, hiker, hikers, hiking, hiking climbing, hiking equipment, hiking route, hiking trip, hiking trips, mountain, mountain hiking, mountain top, ,TREKKING/ BACKPACKING, adventure trekking, alpinist, alpinists, apparel, backcountry backpacking, backcountry trekking, backpacker, backpacking, backpacking trails, backpacking trip, backpacking trips, equipment, gear, high alpine, mountain, ski backpacking, travel, trave
+  keywordClimate: COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer
+  keywordCRMCampaigns: F10-BaseLayer, BASE LAYER, baselayer, base-layer, PREMIÈRE COUCHE, première-couche, premiere-couche, sous-vêtements, sous-vetements, sous vetements, ,layering-system, ,F12-Holiday4-Baselayer
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility
+  keywordInsulation: BASE LAYER, thermal underwear, thermals, underwear, baselayer, base-layer, insulation,Phase AR Bottom,Phase SL Bottom
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness, ,PLACE-SNOW, alp, alpine, back country, backcountry, crevasse, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, off-piste, on-piste, peak, peaks, piste, summit, tree line
+  keywordPants: Phase AR Bottom,rho lt bootcut
+  keywordSpecific: thermal, thermals, underwear, underwear, base layer, undies
+
+Manufacturing Facility:
+PT.PANCAPRIMA EKABROTHERS
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Normal Low
+
+Intended Use:
+- Skiing and Snowboarding
+- New Arrivals
+

@@ -1,0 +1,43 @@
+Product URL: sinsolo-hat
+
+ID: X000005435
+
+Name: Sinsolo Hat
+
+Description:
+The Sinsolo is the classic go-to hat for long days in the sun. A chin cord keeps it in place, and the polyester plain weave fabric stretches for a secure fit, and is extremely breathable and lightweight. The laminated brim holds its shape, even after carrying the hat in a pocket or pack.
+
+Short Description:
+Light, breathable sun hat that easily compresses to fit in a pack or pocket.
+
+Features:
+- Breathable
+- Lightweight
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Hats and Caps
+- Sun Protection
+
+Keywords:
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+
+Manufacturing Facility:
+ZHONGSHAN WEILI TEXTILE CO., LTD(Supercap)
+
+Care Instructions:
+- Do Not Bleach
+- Do Not Dry Clean
+- Do Not Iron
+- Surface Clean Only
+- Do Not Tumble Dry
+- Do Not Wash
+
+Intended Use:
+- Hiking and Trekking
+

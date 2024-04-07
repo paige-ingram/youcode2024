@@ -1,0 +1,44 @@
+Product URL: vertex-gtx-shoe
+
+ID: X000007619
+
+Name: Vertex GTX Shoe
+
+Description:
+A pinnacle alpine running shoe built for winter realities, the Vertex GTX delivers GORE-TEX protection, security and confidence underfoot, and the added element of an integrated gaiter extending the GORE-TEX above the ankle to help seal out snow, water, and debris. Confidence and protection come from the mid to forefoot TPU rock plate, the 360o rand, and a welded support zone on the upper. Vibram Megagrip, a 5mm lug pattern, and forefoot climbing zone provide grip and security. 
+
+Short Description:
+GORE-TEX alpine running shoe designed for wet, snowy conditions. 
+
+Features:
+- Breathable
+- Lightweight
+- Durable
+- Abrasion resistant
+
+Gender Category:
+unisex
+
+Categories:
+- Footwear
+
+Subcategories:
+- GORE-TEX (Waterproof)
+- Shoes
+- Reflective
+
+Keywords:
+  keywordActivities: TRAIL RUNNING, running, adventure, apparel, athletic running, competition, Course a pieds, cross country, cross country running, distance running, endurance, endurance running, equipment, gear, jogging, long distance running, marathon running, mountain, mountains, orientee
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordMaterials: GORE-TEX, gore tex, goretex, gore-tex, GORE-TEX
+
+Manufacturing Facility:
+IDEA (MACAO COMMERCIAL OFFSHORE)
+
+Care Instructions:
+- Surface Clean Only
+
+Intended Use:
+- Trail Running
+- New Arrivals
+

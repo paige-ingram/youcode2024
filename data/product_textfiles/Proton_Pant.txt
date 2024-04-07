@@ -1,0 +1,53 @@
+Product URL: womens/proton-pant
+
+ID: X000005890
+
+Name: Proton Pant
+
+Description:
+Materials and design combine in a pant that helps regulate your body temperature across a range of alpine conditions. Wear it as a midlayer in cold conditions, or pull it on as a standalone. The ultralight Octa® Loft knit insulation’s combination of warmth and breathability maintains thermal comfort, and its construction is exceptionally soft next to the skin and eliminates the need for a liner. The trim fit layers easily, and articulated patterning frees you to move.
+
+Short Description:
+Versatile, breathable, lightly-insulated pant works as a standalone or midlayer.
+
+Features:
+- Breathable
+- Lightly insulated
+- Lightweight
+- Durable
+- Versatile
+
+Gender Category:
+Women's
+
+Categories:
+- Pants
+
+Subcategories:
+- Windproof
+- Inseam Length (Regular)
+
+Keywords:
+  keywordActivities: CLIMBING, abseil, abseiling, adventure climbing, aid climbing, alpine climbing, apparel, ascent, belay, bouldering, climber, climbers, climbing, climbing equipment, climbing gear, climbing gym, climbing route, climbing routes, climbing wall, clothing, crag, cragging, equipmen
+  keywordClimate: COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer
+  keywordGeneric: ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+  keywordPants: PANTS, pant, pantalons, pants, trousers, ,PANT INSULATED, insulated pant, insulated trousers, thermal pant, thermal pants, thermal trousers
+
+Manufacturing Facility:
+VAST APPAREL VIETNAM LTD.
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Double Rinse
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Normal Low
+- Do Not Wring
+
+Intended Use:
+- Alpine and Rock Climbing
+

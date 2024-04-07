@@ -1,0 +1,49 @@
+Product URL: mens/proton-vest
+
+ID: X000006926
+
+Name: Proton Vest
+
+Description:
+When you’re in motion – climbing, hiking, running trails – regulating thermal comfort is essential. Made to balance air flow and insulation, the Proton Vest wraps the core to deliver warmth without overheating. Softshell durable, the Fortius™ Air 20 outer stretches, and balances moderate wind and weather protection with airflow. Octa® Loft knit insulation provides warmth that resists packing out over time. The chest pocket is sized for a radio, and the trim fit layers easily under a shell.Updated with a revised fit.
+
+Short Description:
+Light, breathable insulated vest for high-output activities in cold conditions.
+
+Features:
+- Breathable
+- Air permeable
+- Light wind resistance
+
+Gender Category:
+Men's
+
+Categories:
+- Insulated Jackets
+
+Subcategories:
+- Synthetic Fill
+- Vests
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish, ,CLIMBING, abseil, abseiling, adventure climbing, aid climbing, alpine climbing, apparel, ascent, belay, bouldering, climber, climbers, climbing, climbing equipment, climbing gear, climbing gym, climbing route, climbing routes, climbing wall, clothing, crag, cragging, equipmen
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,OUTER LAYER, outerlayer, outside layer, outter layer, COUCHE EXTÉRIEURE, couche-extérieure, couche-exterieure
+  keywordInsulation: INSULATION, body heat, body temperature, bonded poly, comfort, core temperature, fleece, fleese, hardface, heat retention, heat transfer, loft, insulated, insulation, insulation layer, insulation piece, layering, loft, polartec, prima loft, primaloft, thermal, thermal pro, war
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness, ,URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+
+Manufacturing Facility:
+YOUNGONE (CEPZ) LTD
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Double Rinse
+- Do Not Dry Clean
+- Do Not Iron
+- Machine Wash Gentle Low
+- Do Not Use Fabric Softener
+- Tumble Dry Gentle Low
+
+Intended Use:
+- Alpine and Rock Climbing
+

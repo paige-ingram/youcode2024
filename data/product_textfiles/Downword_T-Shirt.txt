@@ -1,0 +1,52 @@
+Product URL: womens/downword-t-shirt
+
+ID: X000006738
+
+Name: Downword T-Shirt
+
+Description:
+Natural comfort and technical fibres combine in a graphic tee. Combining soft, durable, organically grown cotton with performance polyester fibres, the 168gsm fabric is great for spring and summer. Short-sleeved with a relaxed fit, it features an Arc’teryx graphic on the front.
+
+Short Description:
+Luxuriously comfortable tee made from an organically grown cotton blend.
+
+Features:
+- Breathable
+- Lightweight
+- Quick-drying
+- Air permeable
+
+Gender Category:
+Women's
+
+Categories:
+- Shirts and Tops
+
+Subcategories:
+- T-Shirts
+- Cotton Blend
+- Organically Grown Cotton
+- bluesign® Approved Materials
+
+Keywords:
+  keywordActivities: MOUNTAINEERING, mountaineering, mountain climbing
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+
+Manufacturing Facility:
+NAN YANG GARMENT CO., LTD.
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Do Not Iron
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Gentle Low
+
+Intended Use:
+- Hiking and Trekking
+- Everyday
+- Alpine and Rock Climbing
+

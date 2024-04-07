@@ -1,0 +1,47 @@
+Product URL: cranbrook-hat
+
+ID: X000006483
+
+Name: Cranbrook Hat
+
+Description:
+This is essential protection for summer backcountry adventures. A wide brim hat that protects your face, ears, and neck from the sun's rays, the Cranbrook is ventilated for airflow and packs easily into your pockets for compact storage. The durable stretch twill is light and comfortable, and the knit mesh is made with wicking fibres. An antimicrobial finish keeps odours at bay, an adjustable cinch with a TPU buckle keeps it on your head.
+
+Short Description:
+Easily packed wide-brim sun hat for warm-weather adventures.
+
+Features:
+- Breathable
+- Lightweight
+- Packable
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Hats and Caps
+
+Keywords:
+  keywordAccessories: HATS, hat, toque, beanie, beany, woolly hat, chapeau, headgear, headwear, head wear
+  keywordActivities: HIKING, adventure hiking, alpine, alpinist, alpinists, apparel, backcountry, backpacker, backpacking, equipment, gear, high alpine, hike, hiker, hikers, hiking, hiking climbing, hiking equipment, hiking route, hiking trip, hiking trips, mountain, mountain hiking, mountain top, ,TREKKING/ BACKPACKING, adventure trekking, alpinist, alpinists, apparel, backcountry backpacking, backcountry trekking, backpacker, backpacking, backpacking trails, backpacking trip, backpacking trips, equipment, gear, high alpine, mountain, ski backpacking, travel, trave
+  keywordClimate: WARM CONDITIONS, climate, hot, spring, springtime, summer, summertime, temperature, temperatures, warm, warm weather activities, dry climate
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+
+Manufacturing Facility:
+ZHONGSHAN WEILI TEXTILE CO., LTD(Supercap)
+
+Care Instructions:
+- Do Not Bleach
+- Do Not Dry Clean
+- Do Not Iron
+- Surface Clean Only
+- Do Not Tumble Dry
+- Do Not Wash
+
+Intended Use:
+- Hiking and Trekking
+

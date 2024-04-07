@@ -1,0 +1,53 @@
+Product URL: womens/khara-pant
+
+ID: X000007420
+
+Name: Khara Pant
+
+Description:
+Modern city pant with an easy feel. Offers performance with a regular fit and refined design. The breathable double-weave material provides stretch and transitional weather protection. Laminated hems are clean and refined, and an elastic insert at the waist adds comfort. Articulated patterning removes restriction. The design and distinctive Veilance aesthetic make this a versatile wardrobe choice on its own or paired with the Tenia Blazer.
+
+Short Description:
+Comfortable, midweight weather-resistant pant with a progressive silhouette.
+
+Features:
+- Durable
+- Wind resistant
+- Water repellent
+
+Gender Category:
+Women's
+
+Categories:
+- Pants
+
+Subcategories:
+- Softshell
+- Wind Resistant
+- bluesign® Approved Materials
+- Recycled Content
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,SOFT SHELL, shell, soft shell, softshell, soft-shell, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordPants: PANTS, pant, pantalons, pants, trousers, ,PANT CASUAL, casual, office attire, urban pant, wear, trousers, pant, pants
+  keywordSpecific: Veilance, urban, technical, peformance, menswear, office, attire
+  keywordVeilance: Veilance, urban, technical, peformance, menswear, office, attire
+
+Manufacturing Facility:
+Zplus Company Limited
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Double Rinse
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Low
+- Do Not Use Fabric Softener
+- Tumble Dry Normal Low
+
+Intended Use:
+

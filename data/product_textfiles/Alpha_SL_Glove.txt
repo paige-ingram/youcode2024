@@ -1,0 +1,48 @@
+Product URL: alpha-sl-glove
+
+ID: X000006512
+
+Name: Alpha SL Glove
+
+Description:
+Highly dexterous, highly articulated climbing glove for technically demanding alpine and ice routes.
+
+Short Description:
+Highly dexterous, highly articulated climbing glove for technically demanding alpine and ice routes. Alpha Series: Climbing and alpine focused systems | SL: Super light.
+
+Features:
+- Weather resistant
+- Windproof
+- Lightly insulated
+- Versatile
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Gloves
+
+Keywords:
+  keywordAccessories: GLOVES, glove, gloves, mitt, mitten, mittens, gants
+  keywordActivities: CLIMBING, abseil, abseiling, adventure climbing, aid climbing, alpine climbing, apparel, ascent, belay, bouldering, climber, climbers, climbing, climbing equipment, climbing gear, climbing gym, climbing route, climbing routes, climbing wall, clothing, crag, cragging, equipmen,MOUNTAINEERING, mountaineering, mountain climbing
+  keywordClimate: WEATHER-RESISTANCE, climate, elements, hydrophobic, outdoor protection, protect against the elements, protection against the elements, shelter, Storm protection, weather, weather protection, weather resistant, weather resistent, weatherproof construction, ,WIND-RESISTANCE, wind, wind block, wind blocker, wind breaker, wind pro, wind proof, wind protector, wind resistant, wind resistent, wind shell, windbreaker, windproof, ,SNOWY CONDITIONS, blizzard, deep snow, hydrophobic, powder, protection from snow, sleet, snow, snow conditions, snow flurry, snow precipitation, snow protection, snow shedding, snowfall, winter, ,WATER-RESISTANCE, hydrophobic, rain proof, rain resistant, seam sealed, seam-sealed, water, water proof, water proof, water proofing, water repellant, water repellent, water resistant, water resistent, waterproof, waterproof, wet climate
+  keywordGeneric: GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,GLOVES, gloves, glove, gants, gant, hand protection, mitts, snow gloves, ski gloves, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordGloves: GLOVES WATERPROOF, waterproof gloves, waterproof glove, weather resistant, windproof, ski gloves, ski glove, ,GLOVES, gloves, mitts, glove, mitt, handshuh, gants
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness, ,PLACE-SNOW, alp, alpine, back country, backcountry, crevasse, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, off-piste, on-piste, peak, peaks, piste, summit, tree line
+
+Manufacturing Facility:
+HUNG WAY CO., LTD (Palace)
+
+Care Instructions:
+- Do Not Bleach
+- Do Not Dry Clean
+- Line Dry
+- Hand Wash Cold
+- Do Not Iron
+
+Intended Use:
+- Alpine and Rock Climbing
+

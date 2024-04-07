@@ -1,0 +1,50 @@
+Product URL: mens/levon-pant
+
+ID: X000005672
+
+Name: Levon Pant
+
+Description:
+Designed with the Arc’teryx focus on performance, detail and craftsmanship, and styled for mountain town or city, the Levon is a versatile five-pocket pant for relaxed work days, adventure travel and casual weekends. The midweight cotton/nylon stretch canvas is comfortable, hardwearing and stretches for a clean fit that moves with the body. A gusseted crotch and subtle articulation at the knees elevate freedom of movement, and an eco-friendly DWR treatment adds water and stain resistance.
+
+Short Description:
+Versatile, durable casual pant in a comfortable stretch cotton blend canvas.
+
+Features:
+- Lightweight
+- Durable
+
+Gender Category:
+Men's
+
+Categories:
+- Pants
+
+Subcategories:
+- Cotton Blend
+- Inseam Length (Regular)
+
+Keywords:
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordClimate: WARM CONDITIONS, climate, hot, spring, springtime, summer, summertime, temperature, temperatures, warm, warm weather activities, dry climate, ,WATER-RESISTANCE, hydrophobic, rain proof, rain resistant, seam sealed, seam-sealed, water, water proof, water proof, water proofing, water repellant, water repellent, water resistant, water resistent, waterproof, waterproof, wet climate
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility,DURABLE, burly, durability, durable, enduring, hard wearing, hard-wearing, long lasting, long-lasting, resilient, resistant, resistent, robust, rugged, strong, tough, tuff
+  keywordLocations: URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+  keywordPants: PANTS, pant, pantalons, pants, trousers, ,PANT CASUAL, casual, office attire, urban pant, wear, trousers, pant, pants
+
+Manufacturing Facility:
+YOUNGONE (CEPZ) LTD
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Double Rinse
+- Do Not Dry Clean
+- Iron Low
+- Machine Wash Gentle Low
+- Do Not Use Fabric Softener
+- Tumble Dry Permanent Press Low
+
+Intended Use:
+- Everyday
+

@@ -1,0 +1,45 @@
+Product URL: womens/acrux-tr-gtx-boot
+
+ID: X000006826
+
+Name: Acrux TR GTX Boot
+
+Description:
+Supportive, comfortable, and noticeably lightweight, the durable ACRUX TR GTX® is a technical trekking boot for multi-day routes in challenging terrain. The SuperFabric® upper employs a unique micro-plated technology that is highly flexible, surprisingly light, and delivers outstanding abrasion resistance. The Vibram® Megagrip outsole and aggressive lug geometry combine for confident traction in wet or dry conditions, and a GORE-TEX insert delivers proven waterproof, breathable protection.
+
+Short Description:
+Light, exceptionally durable GORE-TEX boot for multi-day treks with a full pack.
+
+Features:
+- Waterproof
+- Breathable
+- Lightweight
+- Durable
+- Abrasion resistant
+
+Gender Category:
+Women's
+
+Categories:
+- Footwear
+
+Subcategories:
+- GORE-TEX (Waterproof)
+- Boots
+
+Keywords:
+  keywordActivities: HIKING, adventure hiking, alpine, alpinist, alpinists, apparel, backcountry, backpacker, backpacking, equipment, gear, high alpine, hike, hiker, hikers, hiking, hiking climbing, hiking equipment, hiking route, hiking trip, hiking trips, mountain, mountain hiking, mountain top, ,CLIMBING, abseil, abseiling, adventure climbing, aid climbing, alpine climbing, apparel, ascent, belay, bouldering, climber, climbers, climbing, climbing equipment, climbing gear, climbing gym, climbing route, climbing routes, climbing wall, clothing, crag, cragging, equipmen,TREKKING/ BACKPACKING, adventure trekking, alpinist, alpinists, apparel, backcountry backpacking, backcountry trekking, backpacker, backpacking, backpacking trails, backpacking trip, backpacking trips, equipment, gear, high alpine, mountain, ski backpacking, travel, trave
+  keywordClimate: WEATHER-RESISTANCE, climate, elements, hydrophobic, outdoor protection, protect against the elements, protection against the elements, shelter, Storm protection, weather, weather protection, weather resistant, weather resistent, weatherproof construction, ,WARM CONDITIONS, climate, hot, spring, springtime, summer, summertime, temperature, temperatures, warm, warm weather activities, dry climate, ,MOIST CONDITIONS, brume, cloudy, condensation, fog, foggy, hydrophobic, mist, misty, moisture blocking, moisture repellent, moisture resistant, moisture resistent, moisture shedding, moisture wicking, sheds moisture, wet climate
+  keywordFootwear: Bora Mid GTX Hiking Boot,Bora 2 Mid GTX Hiking Book
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility,DURABLE, burly, durability, durable, enduring, hard wearing, hard-wearing, long lasting, long-lasting, resilient, resistant, resistent, robust, rugged, strong, tough, tuff, ,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+
+Manufacturing Facility:
+IDEA (MACAO COMMERCIAL OFFSHORE)
+
+Care Instructions:
+- None
+
+Intended Use:
+- Hiking and Trekking
+

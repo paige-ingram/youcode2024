@@ -1,0 +1,43 @@
+Product URL: wool-ball-cap
+
+ID: X000005504
+
+Name: Wool Ball Cap
+
+Description:
+A classic six-panel cap made from wool for warmth and odour resistance, with a comfortable self-adjusting fit.
+
+Short Description:
+Classic wool Flexfit ball cap with a subtle Arc’teryx logo.
+
+Features:
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Hats and Caps
+
+Keywords:
+  keywordAccessories: CAPS, Ball cap, baseball cap, running cap, brim, brimmed hat, ,HATS, hat, toque, beanie, beany, woolly hat, chapeau, headgear, headwear, head wear, ,Embroidered Bird Cap
+  keywordActivities: CASUAL, urban, urban play, city life, lifestyle, stylish, ,HIKING, adventure hiking, alpine, alpinist, alpinists, apparel, backcountry, backpacker, backpacking, equipment, gear, high alpine, hike, hiker, hikers, hiking, hiking climbing, hiking equipment, hiking route, hiking trip, hiking trips, mountain, mountain hiking, mountain top, ,TREKKING/ BACKPACKING, adventure trekking, alpinist, alpinists, apparel, backcountry backpacking, backcountry trekking, backpacker, backpacking, backpacking trails, backpacking trip, backpacking trips, equipment, gear, high alpine, mountain, ski backpacking, travel, trave
+  keywordCasual: CASUAL, 24, casual, office wear, traverse, twenty four, twenty-four, urban
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility
+
+Manufacturing Facility:
+ZHONGSHAN WEILI TEXTILE CO., LTD(Supercap)
+
+Care Instructions:
+- Do Not Bleach
+- Do Not Dry Clean
+- Do Not Iron
+- Surface Clean Only
+- Do Not Tumble Dry
+- Do Not Wash
+
+Intended Use:
+- Everyday
+

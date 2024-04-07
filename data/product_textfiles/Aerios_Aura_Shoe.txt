@@ -1,0 +1,43 @@
+Product URL: aerios-aura-shoe
+
+ID: X000006942
+
+Name: Aerios Aura Shoe
+
+Description:
+A light, fast shoe utilizing elite trail running technologies and made to maximize breathability, the Aerios Aura is the shoe for hiking technical trails in hot weather. The recycled polyester upper’s engineered mesh provides airflow and employs a more open weave in zones prone to overheating. The tongue integrates with the internal lining to create a comfortable, supportive fit, raised perimeter sidewalls add protection, and the Vibram® Megagrip™ outsole provides a confident grip across a range of terrain.
+
+Short Description:
+Lightweight, agile, highly breathable shoe for hot-weather hiking.
+
+Features:
+- Breathable
+- Lightweight
+- Abrasion resistant
+- Air permeable
+
+Gender Category:
+unisex
+
+Categories:
+- Footwear
+
+Subcategories:
+- Shoes
+
+Keywords:
+  keywordActivities: HIKING, adventure hiking, alpine, alpinist, alpinists, apparel, backcountry, backpacker, backpacking, equipment, gear, high alpine, hike, hiker, hikers, hiking, hiking climbing, hiking equipment, hiking route, hiking trip, hiking trips, mountain, mountain hiking, mountain top
+  keywordClimate: WARM CONDITIONS, climate, hot, spring, springtime, summer, summertime, temperature, temperatures, warm, warm weather activities, dry climate
+  keywordFootwear: Aerios FL Mid GTX Shoe
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,MOISTURE WICKING/ BREATHABLE, breathability, breathable, breathible, eliminating, moisture repelling, moisture removing, moisture wicking, quick drying, quick-drying, venting, wicking, wicks moisture, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+
+Manufacturing Facility:
+IDEA (MACAO COMMERCIAL OFFSHORE)
+
+Care Instructions:
+- None
+
+Intended Use:
+- Hiking and Trekking
+

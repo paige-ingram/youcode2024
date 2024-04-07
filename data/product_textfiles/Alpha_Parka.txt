@@ -1,0 +1,51 @@
+Product URL: mens/alpha-parka
+
+ID: X000005340
+
+Name: Alpha Parka
+
+Description:
+Winter belays are unforgiving. The Alpha Parka - our warmest down-insulated belay parka - sheds the cold and wind so you can focus on your task. RDS-certified 850-fill goose down’s outstanding warmth is complemented with mapped synthetic insulation for added breathability in moisture-prone areas. Exceptionally breathable 2L GORE-TEX INFINIUM™ with ultralight, ultra-durable Hadron™ face fabric blocks wind and resists water while adding warmth equivalent to 100g of down. A proprietary fabric we created to redefine the standard for superlight alpine durability, Hadron™ is engineered with a liquid crystal polymer ripstop grid to deliver abrasion resistance rivaling fabrics twice its weight. A StormHood™ protects without impacting lines-of-sight, and the articulated gender-specific design fits comfortably over winter climbing gear.
+
+Short Description:
+Belay jacket with GORE-TEX INFINIUM™ weather protection and durable Hadron™ face fabric.
+
+Features:
+- Windproof
+- Water resistant
+- Highly breathable
+
+Gender Category:
+Men's
+
+Categories:
+- Insulated Jackets
+
+Subcategories:
+- Insulated Shell
+- Windproof
+- Down Fill
+
+Keywords:
+  keywordActivities: CLIMBING, abseil, abseiling, adventure climbing, aid climbing, alpine climbing, apparel, ascent, belay, bouldering, climber, climbers, climbing, climbing equipment, climbing gear, climbing gym, climbing route, climbing routes, climbing wall, clothing, crag, cragging, equipmen
+
+Manufacturing Facility:
+Zplus Company Limited
+
+Care Instructions:
+- Do Not Bleach
+- Close All Fastenings Before Wash
+- Double Rinse
+- Do Not Dry Clean
+- Front Load Washer Recommended
+- Do Not Iron
+- Use Mesh Bag For Top Load Washer
+- Machine Wash Permanent Press Medium
+- Do Not Use Fabric Softener
+- Tumble Dry Low with Tennis Balls
+- Tumble Dry Permanent Press Low
+- Wash Separately
+
+Intended Use:
+- Alpine and Rock Climbing
+

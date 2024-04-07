@@ -1,0 +1,56 @@
+Product URL: mens/atom-sl-vest
+
+ID: X000004849
+
+Name: Atom SL Vest
+
+Description:
+Compact and superlight, our lightest Atom vest easily stashes in your pack, ready to grab when summer temperatures drop. Worn as a midlayer or standalone, it delivers moderate insulation perfect for early morning runs and taking in the view from a freshly bagged peak. The Tyono™ 20 shell balances breathability and wind resistance, and the Coreloft™ insulation is light, compressible, and efficient. Lightweight stretch fleece side panels improve ventilation and hold the fit.
+
+Short Description:
+Superlight Coreloft™ insulated vest for mid to high output activities. Atom Series: Synthetic insulated mid layers | SL: Superlight.
+
+Features:
+- Moisture-wicking
+- Breathable
+- Compressible and packable
+- Insulated
+- Wind resistant
+- Ultralight
+
+Gender Category:
+Men's
+
+Categories:
+- Insulated Jackets
+
+Subcategories:
+- Synthetic Fill
+- Vests
+- Water Resistant
+
+Keywords:
+  keywordActivities: SNOW SHOEING, apparel, back country, backcountry, equipment, gear, hike, hiking, mountains, peak, snowshoe, snowshoe apparel, snowshoe clothing, snowshoe equipment, snowshoe gear, snowshoe trails, snowshoeing, snowshoeing equipment, snowshoes, snowshoing, snowshow trail, sno,SKI TOURING, alpine ski touring, apparel, ascent, backcountry ski touring, cross country ski touring, descent, equipment, gear, out of bounds skiing, ski tour, ski touring, ski touring equipment, ski touring gear, snowsports, telemark skier, telemark skiing, touring equi,TRAVELLING, commute, commuter, travel, travelling, traveling, journey, urban, city travel, city, business travel, business, ,HIKING, adventure hiking, alpine, alpinist, alpinists, apparel, backcountry, backpacker, backpacking, equipment, gear, high alpine, hike, hiker, hikers, hiking, hiking climbing, hiking equipment, hiking route, hiking trip, hiking trips, mountain, mountain hiking, mountain top, ,CLIMBING, abseil, abseiling, adventure climbing, aid climbing, alpine climbing, apparel, ascent, belay, bouldering, climber, climbers, climbing, climbing equipment, climbing gear, climbing gym, climbing route, climbing routes, climbing wall, clothing, crag, cragging, equipmen,MOUNTAINEERING, mountaineering, mountain climbing
+  keywordClimate: COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,COMPRESSIBLE, compact, compressible, compressibility, compression, pac lite, packable, paclite, pac-lite, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,SKI CLOTHING, ski, snowboard, skiing, snowboarding, skier, snowboarder,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility,MID LAYER, midlayer, mid-layer, middle layer, SECONDE COUCHE, seconde-couche, ,VEST: vest, gilet
+  keywordInsulation: INSULATION, body heat, body temperature, bonded poly, comfort, core temperature, fleece, fleese, hardface, heat retention, heat transfer, loft, insulated, insulation, insulation layer, insulation piece, layering, loft, polartec, prima loft, primaloft, thermal, thermal pro, war,LIGHT WEIGHT INSULATION, feather weight, featherweight, light weight, lightweight, super light, superlight, ultra light, ultralight, ultra-light
+  keywordJackets: JACKETS, anorak, anoraks, coat, coats, jacke, jacket, jackets, outerwear, parka, parkas, poncho, ponchos, vest, wind jacket, windjacket, windshell, wind shell, Winterjacke,JACKET INSULATED, insulated, doudoune,JACKET COLD WEATHER, cold weather running jacket, winter running jacket, winter trail running jacket, cold weather trail running jacket
+
+Manufacturing Facility:
+YOUNGONE (CEPZ) LTD
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Double Rinse
+- Do Not Dry Clean
+- Do Not Iron
+- Machine Wash Gentle Low
+- Do Not Use Fabric Softener
+- Tumble Dry Gentle Low
+- Do Not Wring
+
+Intended Use:
+- Trail Running
+- Everyday
+

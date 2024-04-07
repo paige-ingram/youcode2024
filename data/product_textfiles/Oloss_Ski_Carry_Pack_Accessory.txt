@@ -1,0 +1,44 @@
+Product URL: oloss-ski-carry-pack-accessory
+
+ID: X000006242
+
+Name: Oloss Ski Carry Pack Accessory
+
+Description:
+Simple, smart, easy – the Oloss integrates with our technical snow and Alpha climbing packs to carry skis, snowboards, or splitboards. The design is glove friendly – no time wasted transitioning from bootpack to descent – and its wide range of adjustability accommodates your entire quiver.
+
+Short Description:
+Ski carry system designed to work with our technical climb and snow packs.
+
+Features:
+- Versatile
+
+Gender Category:
+unisex
+
+Categories:
+- Packs
+
+Subcategories:
+- Pack Accessories
+
+Keywords:
+  keywordActivities: MOUNTAINEERING, mountaineering, mountain climbing
+  keywordGeneric: GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+  keywordPacks: CLIMBING BAGS, chalk, chalk bag, haul bag
+
+Manufacturing Facility:
+MOUNTAINEERING INSTRUMENTS CORPORAT -/DI-PH
+
+Care Instructions:
+- Do Not Bleach
+- Do Not Dry Clean
+- Do Not Iron
+- Surface Clean Only
+- Do Not Tumble Dry
+- Do Not Wash
+
+Intended Use:
+- Skiing and Snowboarding
+

@@ -1,0 +1,42 @@
+Product URL: vertex-shoe
+
+ID: X000007109
+
+Name: Vertex Shoe
+
+Description:
+With an evolved design fine-tuned for alpine running, the Vertex delivers the confidence and security to push off trail and scramble at speed. The upper – made from 100% recycled PFC-free polyester – is durable and breathable, and an integrated knit collar helps seal out debris. Support and protection come from mid to forefoot TPU rock plate, 360-degree randing, and a welded support zone on the upper. Vibram® Megagrip, a deep 4mm lug pattern, and friction zone at the forefoot provide confidence and grip on rock and trail.
+
+Short Description:
+Secure, comfortable shoe designed for alpine running and scrambling at speed.
+
+Features:
+- Breathable
+- Durable
+- Abrasion resistant
+
+Gender Category:
+unisex
+
+Categories:
+- Footwear
+
+Subcategories:
+- Shoes
+- Recycled Content
+
+Keywords:
+  keywordActivities: TRAIL RUNNING, running, adventure, apparel, athletic running, competition, Course a pieds, cross country, cross country running, distance running, endurance, endurance running, equipment, gear, jogging, long distance running, marathon running, mountain, mountains, orientee
+  keywordFootwear: Norvan LD GTX Shoe,Norvan LD Shoe,Norvan LD2 Shoes,Norvan LD 2 Shoe,Norvan VT GTX Shoe,Norvan VT Shoe
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,DURABLE, burly, durability, durable, enduring, hard wearing, hard-wearing, long lasting, long-lasting, resilient, resistant, resistent, robust, rugged, strong, tough, tuff
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+
+Manufacturing Facility:
+IDEA (MACAO COMMERCIAL OFFSHORE)
+
+Care Instructions:
+- None
+
+Intended Use:
+- Trail Running
+

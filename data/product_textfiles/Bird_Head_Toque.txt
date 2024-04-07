@@ -1,0 +1,52 @@
+Product URL: bird-head-toque
+
+ID: X000006756
+
+Name: Bird Head Toque
+
+Description:
+Optimized for warmth, our classic logo toque is made with a wool and recycled polyester blend for natural thermal performance and comfort. A brushed polyester band adds technical performance and a layer of softness. Packs easily for warmth anywhere. 
+
+Short Description:
+Warm, comfortable toque made from a blend of wool and recycled polyester.
+
+Features:
+- Breathable
+- Lightly insulated
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Toques and Beanies
+- Recycled Content
+
+Keywords:
+  keywordAccessories: HATS, hat, toque, beanie, beany, woolly hat, chapeau, headgear, headwear, head wear
+  keywordActivities: CLIMBING, abseil, abseiling, adventure climbing, aid climbing, alpine climbing, apparel, ascent, belay, bouldering, climber, climbers, climbing, climbing equipment, climbing gear, climbing gym, climbing route, climbing routes, climbing wall, clothing, crag, cragging, equipmen,MOUNTAINEERING, mountaineering, mountain climbing
+  keywordClimate: COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer
+  keywordGeneric: GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness
+
+Manufacturing Facility:
+PT Uwu Jump Indonesia
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Use Wool Detergent
+- Dry Flat
+- Hand Wash Cold
+- Do Not Iron
+- Do Not Use Fabric Softener
+- Do Not Wring
+
+Intended Use:
+- Hiking and Trekking
+- Skiing and Snowboarding
+- Alpine and Rock Climbing
+

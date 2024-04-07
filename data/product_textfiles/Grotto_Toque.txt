@@ -1,0 +1,48 @@
+Product URL: grotto-toque
+
+ID: X000009253
+
+Name: Grotto Toque
+
+Description:
+Versatile, warm, and soft - and designed with a look that moves easily from urban to alpine - this mid-length winter toque is made from 100% recycled polyester and features a colorful, abstract Arc’teryx bird logo.
+
+Short Description:
+Warm, versatile 100% recycled polyester toque performs on and off the mountain.
+
+Features:
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Toques and Beanies
+
+Keywords:
+  keywordAccessories: HATS, hat, toque, beanie, beany, woolly hat, chapeau, headgear, headwear, head wear
+  keywordActivities: NORDIC, apparel, backcountry ski gear, backcountry skiing, cross country ski trail, cross country skier, cross country skiing, crosscountry skiing, equipment, gear, nordic skier, nordic skiing, nordic skiing equipment, nordic skiing gear, skate skier, skate skiing, ski,SKI TOURING, alpine ski touring, apparel, ascent, backcountry ski touring, cross country ski touring, descent, equipment, gear, out of bounds skiing, ski tour, ski touring, ski touring equipment, ski touring gear, snowsports, telemark skier, telemark skiing, touring equi,SKIING, alpine skiing, apparel, backcountry skiing, descent, equipment, gear, mountain, piste, ski, ski clothing, ski conditions, ski equipment, ski gear, ski slope, ski sports, ski trips, skier, skiers, Skifahren, skiing, slope, slopes, snow, snow skiing, snowsports, winter ski, ,SNOWBOARDING, apparel, backcountry snowboarding, descent, equipment, gear, snow boarding, snowboard, snowboard clothing, snowboard equipment, snowboard gear, snowboarder, snowboarding, snowboarding equipment, snowborder, snowbording, snowsports
+  keywordClimate: COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordLocations: PLACE-SNOW, alp, alpine, back country, backcountry, crevasse, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, off-piste, on-piste, peak, peaks, piste, summit, tree line
+
+Manufacturing Facility:
+PT Uwu Jump Indonesia
+
+Care Instructions:
+- Do Not Bleach
+- Wash Dark Colours Separately
+- Do Not Dry Clean
+- Dry Flat
+- Hand Wash Cold
+- Do Not Iron
+- Do Not Use Fabric Softener
+- Do Not Wring
+
+Intended Use:
+- Skiing and Snowboarding
+- Everyday
+- New Arrivals
+

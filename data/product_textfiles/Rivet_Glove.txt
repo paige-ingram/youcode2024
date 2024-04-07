@@ -1,0 +1,50 @@
+Product URL: rivet-glove
+
+ID: X000006720
+
+Name: Rivet Glove
+
+Description:
+The versatile Rivet Glove performs as a standalone on cold dry days and layers easily under a shell in more demanding conditions.  Made with durable air permeable Polartec® Power Stretch® fleece with Hardface® Technology, the smooth outer face resists wind, sheds snow and easily slides in and out of shell layers. The soft fleece inside is warm and comfortable, a DWR finish provides additional weather protection, and the supple leather reinforcement at the palm adds durability and improves grip. The Trim fit with low profile cuffs reduces layering bulk, and conductive polyurethane pads on the thumb and index finger improve grip and allow the use of touch screen electronics while wearing the gloves.
+
+Short Description:
+Versatile, weather resistant Polartec® Power Stretch® fleece with Hardface® Technology glove performs on its own or as an insulation layer under a shell.
+
+Features:
+- Weather resistant
+- Breathable
+- Lightweight
+- Durable
+
+Gender Category:
+unisex
+
+Categories:
+- Accessories
+
+Subcategories:
+- Gloves
+
+Keywords:
+  keywordAccessories: GLOVES, glove, gloves, mitt, mitten, mittens, gants
+  keywordActivities: NORDIC, apparel, backcountry ski gear, backcountry skiing, cross country ski trail, cross country skier, cross country skiing, crosscountry skiing, equipment, gear, nordic skier, nordic skiing, nordic skiing equipment, nordic skiing gear, skate skier, skate skiing, ski,SNOW SHOEING, apparel, back country, backcountry, equipment, gear, hike, hiking, mountains, peak, snowshoe, snowshoe apparel, snowshoe clothing, snowshoe equipment, snowshoe gear, snowshoe trails, snowshoeing, snowshoeing equipment, snowshoes, snowshoing, snowshow trail, sno,SKI TOURING, alpine ski touring, apparel, ascent, backcountry ski touring, cross country ski touring, descent, equipment, gear, out of bounds skiing, ski tour, ski touring, ski touring equipment, ski touring gear, snowsports, telemark skier, telemark skiing, touring equi,HIKING, adventure hiking, alpine, alpinist, alpinists, apparel, backcountry, backpacker, backpacking, equipment, gear, high alpine, hike, hiker, hikers, hiking, hiking climbing, hiking equipment, hiking route, hiking trip, hiking trips, mountain, mountain hiking, mountain top, ,TREKKING/ BACKPACKING, adventure trekking, alpinist, alpinists, apparel, backcountry backpacking, backcountry trekking, backpacker, backpacking, backpacking trails, backpacking trip, backpacking trips, equipment, gear, high alpine, mountain, ski backpacking, travel, trave,SKIING, alpine skiing, apparel, backcountry skiing, descent, equipment, gear, mountain, piste, ski, ski clothing, ski conditions, ski equipment, ski gear, ski slope, ski sports, ski trips, skier, skiers, Skifahren, skiing, slope, slopes, snow, snow skiing, snowsports, winter ski, ,SNOWBOARDING, apparel, backcountry snowboarding, descent, equipment, gear, snow boarding, snowboard, snowboard clothing, snowboard equipment, snowboard gear, snowboarder, snowboarding, snowboarding equipment, snowborder, snowbording, snowsports
+  keywordClimate: COLD CONDITIONS, autumn, climate, cold, cold weather activities, cool, extreme cold, fall, freezing, frigid, severe, temperature, temperatures, winter, winter layer
+  keywordCRMCampaigns: F11-gloves-all, ,F12-Holiday1-accessories, ,F12-Holiday4-SkiSnowboard
+  keywordGeneric: ALL PRODUCTS, all, everything, entire, collection, ,GENDER MALE, gender specific, guy, guys, herren, homme, hommes, man, men, men specific, mens, men's, ,GLOVES, gloves, glove, gants, gant, hand protection, mitts, snow gloves, ski gloves, ,DWR, DWR, beading, dwr, ,ARC, all products, arc teryx, arcteryx, arc'teryx, B.C., bc, british columbia, canada, equipment, gear, innovation, innovative, outdoor, outdoor gear, performance, quality, sports equipment, technical, vancouver, ,CLOTHING, aparel, apparel, articles of clothing, attire, bekleidung, clothes, clothing, equipment, garment, gear, kleidung, sportswear, vêtements, vetements, wear, ,ACTIVITY/ MOBILITY, active, activity, aerobic, anatomical, aroebic, articulated, articulation, athletic, comfort, dynamic, endurance, ergonomic, fast moving activity, gardening, mobility, motion, movement, performance, range of motion, stretch mobility,GENDER FEMALE, damen, femme, femmes, gender specific, ladies, lady, woman, women, women specific, womens, women's
+  keywordGloves: GLOVES, gloves, mitts, glove, mitt, handshuh, gants
+  keywordLocations: PLACE-MOUNTAINS, alp, alpine, ascent, back country, backcountry, crevasse, descent, elevation, expedition, high alpine, mid mountain, mountain, mountain pass, mountains, peak, peaks, summit, trail, trails, tree line, valley, valleys, wilderness, ,URBAN, city, town, downtown, vancouver, office, social, restaurant, urban environment
+
+Manufacturing Facility:
+HUNG WAY CO., LTD (Palace)
+
+Care Instructions:
+- Do Not Bleach
+- Do Not Dry Clean
+- Line Dry
+- Hand Wash Cold
+- Do Not Iron
+
+Intended Use:
+- Skiing and Snowboarding
+- Alpine and Rock Climbing
+
